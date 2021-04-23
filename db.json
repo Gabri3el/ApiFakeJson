@@ -2,6 +2,7 @@
     "users": [{
             "id": 1,
             "name": "John Doe",
+            "username":"Jdoe",
             "email": "john.doe@biz.com",
             "phone": "559321232",
             "website": "www.johndoe.com",
@@ -24,6 +25,7 @@
         {
             "id": 2,
             "name": "Leanne Graham",
+            "username":"LeaG_ham",
             "email": "leanne_graham@gmail.com",
             "phone": "932143234",
             "website": "www.leanne.net",
@@ -46,6 +48,7 @@
         {
             "id": 3,
             "name": "Camilla Johnson",
+            "username":"Cmila.J",
             "email": "camilla.johnson@hosting.net",
             "phone": "13443233",
             "website": null,
@@ -68,6 +71,7 @@
         {
             "id": 4,
             "name": "Patricia Lebsack",
+            "username":"P.Lebsack",
             "email": "p.doe@biz.com",
             "phone": "559321232",
             "website": "www.patricia.com",
@@ -89,6 +93,7 @@
         }, {
             "id": 5,
             "name": "Kurtis Weissnat",
+            "username":"KurtisWnat",
             "email": "kurtis.w@biz.com",
             "phone": "559321232",
             "website": "www.kw.com",
@@ -110,6 +115,7 @@
         }, {
             "id": 6,
             "name": "Clementina DuBuque",
+            "username":"Clementina_dubuque",
             "email": "clementina.dubq@biz.com",
             "phone": "559321232",
             "website": "www.dubque.com",
@@ -131,6 +137,7 @@
         }, {
             "id": 7,
             "name": " Glenna Reichert",
+            "username":"g.reichert",
             "email": "Glenna.reichert@biz.com",
             "phone": "559321232",
             "website": "www.glenna.com",
